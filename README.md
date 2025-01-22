@@ -53,7 +53,6 @@ A: Udaya Nagar,Bangalore,Karnataka, 560016
 | WIPRO | Tech Lead | Feb-2021 \-June-2021 |
 | Landmark Group | Senior Software Engineer | Apr-2019 \- Feb-2021 |
 | Harman  | Senior Software Engineer |       OCT 2014- April 2019 |
-|  |  |  |
 
 **Project Details**                                                      
 
